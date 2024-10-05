@@ -1,0 +1,64 @@
+# Operator
+# Arithmetic Operator
+# Assignment Operator
+# Comparison Operator
+# Logical Operator
+# Identity Operator
+# Membership Operator
+# Bitwise Operator
+
+# operator is a symbol that performs certain operations.
+
+# 1. Arithmetic Operators:
+# + ==>Addition
+# - ==>Subtraction
+# * ==>Multiplication
+# / ==>Division operator
+# % ===>Modulo operator
+# // ==>Floor Division operator
+# ** ==>Exponent operator or power operator
+
+# 2. Assignment Operator
+# += ==> Addition Assignment
+# -= ==> Subtraction Assignment
+# *= ==> Multiplication Assignment
+# /= ==> Division Assignment
+# %= ==> Modulo Assignment
+# **= ==> Exponentiation Assignment
+# //= ==> Floor Division Assignment
+# &= ==> Bitwise AND Assignment
+# |= ==> Bitwise OR Assignment
+# ^= ==> Bitwise XOR Assignment
+
+# 3. Comparison Operator
+# ==: Equal to. Returns True if the values on both sides are equal.
+# !=: Not equal to. Returns True if the values on both sides are not equal.
+# >: Greater than. Returns True if the left operand is greater than the right operand. 
+# <: Less than. Returns True if the left operand is less than the right operand. 
+# >=: Greater than or equal to. Returns True if the left operand is greater than or equal to the right operand. 
+# <=: Less than or equal to. Returns True if the left operand is less than or equal to the right operand. 
+
+# 4. Logical Operator
+# Logical operators are used to combine or modify conditional statements. They operate on boolean values (True or False). 
+# and: Returns True if both operands are True.
+# or: Returns True if at least one operand is True.
+# not: Inverts the value of the operand. Returns False if the operand is True, and True if the operand is False.
+
+# 5. Identity Operator
+# Identity operators compare the memory locations of two objects.
+# is: Returns True if both variables refer to the same object.
+# is not: Returns True if both variables refer to different objects. 
+
+# 6. Membership Operator
+# Membership operators test if a value is a member of a sequence (e.g., list, tuple, string). 
+# in: Returns True if the value is found in the sequence.
+# not in: Returns True if the value is not found in the sequence
+
+# 7. Bitwise Operator
+# Bitwise operators perform operations on individual bits of binary numbers. 
+# & (Bitwise AND): Performs a bitwise AND operation.
+# | (Bitwise OR): Performs a bitwise OR operation.
+# ^ (Bitwise XOR): Performs a bitwise XOR operation.
+# ~ (Bitwise NOT): Inverts all the bits.
+# << (Left Shift): Shifts the bits to the left.
+# >> (Right Shift): Shifts the bits to the right.
